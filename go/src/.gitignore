@@ -1,0 +1,4 @@
+pkg/
+**/main
+*.db
+The_Go_Programming_Language/echo2
